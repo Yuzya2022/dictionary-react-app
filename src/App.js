@@ -8,7 +8,7 @@ import Dictionary from "./Dictionary"
       <header className="App-header">
       </header>
       <main>
-        <Dictionary/>
+      <Dictionary defaultKeyword="sunset" />
       </main>
       <footer className="App-footer text-center">Coded by Olga Iuzvyshyna</footer>
       </div>
